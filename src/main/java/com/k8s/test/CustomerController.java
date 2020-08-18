@@ -8,4 +8,7 @@ public class CustomerController {
 	public String getMessage() {
 		return "Good Morning!";
 	}
+	public void test() {
+		System.out.println("Hello");
+	}
 }
