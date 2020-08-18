@@ -13,4 +13,7 @@ public class CustomerController {
 		System.out.println("Hello Welcome dude");
 		return "Good Morning!";
 	}
+	public void test() {
+		System.out.println("Hello");
+	}
 }
