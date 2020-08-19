@@ -15,12 +15,10 @@ public class CustomerController {
 		return "Good Morning!";
 	}
 
-	public String test(String str) {
+	public String test(String str,Integer value) {
 		System.out.println("Bug Fixed");
 		System.out.println("Jai Ganesh! " + "Happy Ganesh Chatuthi");
 		System.out.println("Hello" + "Jai Shri RAM" + "Jai Bhole Shankar");
-
 		return str;
-
 	}
 }
