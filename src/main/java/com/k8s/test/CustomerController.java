@@ -14,6 +14,6 @@ public class CustomerController {
 		return "Good Morning!";
 	}
 	public void test() {
-		System.out.println("Hello");
+		System.out.println("Hello"+"Jai Shri RAM");
 	}
 }
