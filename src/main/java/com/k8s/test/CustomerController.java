@@ -20,6 +20,7 @@ public class CustomerController {
 			System.out.println("String not null.");
 		}
 		System.out.println("Hello" + "Jai Shri RAM" + "Jai Bhole Shankar" + "Jai Sambhu Baba mere Bhole nath" + str);
+		System.out.println("Bug Fixed");
 		System.out.println("Jai Ganesh! " + "Happy Ganesh Chatuthi");
 		System.out.println("Hello" + "Jai Shri RAM" + "Jai Bhole Shankar");
 		return str;
