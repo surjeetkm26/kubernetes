@@ -13,7 +13,8 @@ public class CustomerController {
 		System.out.println("Hello Welcome dude");
 		return "Good Morning!";
 	}
-	public void test() {
-		System.out.println("Hello"+"Jai Shri RAM");
+	public String test(String str) {
+		System.out.println("Hello"+"Jai Shri RAM"+ "Jai Bhole Shankar");
+		return str;
 	}
 }
